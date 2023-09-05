@@ -4,4 +4,5 @@
     <string name="recipes">Recipes</string>
     <string name="joke">Joke</string>
     <string name="favorites">Favorites</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ullamcorper, est non mollis lacinia, elit nunc consectetur risus, et porta ante urna vitae lectus.</string>
 </resources>
