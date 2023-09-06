@@ -1,4 +1,4 @@
-package com.zerdasoftware.foody
+package com.zerdasoftware.foody.viewmodels
 
 import android.app.Application
 import android.content.Context
