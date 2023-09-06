@@ -1,4 +1,4 @@
-package com.zerdasoftware.foody
+package com.zerdasoftware.foody.data.network
 
 import com.zerdasoftware.foody.models.FoodRecipe
 import retrofit2.Response
