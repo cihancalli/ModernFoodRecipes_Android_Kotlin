@@ -11,7 +11,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.foody"
-        minSdkVersion 21
+        minSdkVersion 23
         //noinspection ExpiredTargetSdkVersion
         targetSdkVersion 30
         versionCode 1
