@@ -1,4 +1,4 @@
-package com.zerdasoftware.foody
+package com.zerdasoftware.foody.data.database
 
 import androidx.room.Dao
 import androidx.room.Insert
